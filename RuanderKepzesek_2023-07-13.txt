@@ -1,0 +1,64 @@
+MSSQL tanfolyam;129000
+Excel Power Pivot tanfolyam;63000
+Facebook haladó II. tanfolyam;45000
+Cisco CCNA tanfolyam;499000
+LinkedIn tanfolyam;45000
+Indesign tanfolyam;87000
+Junior Java Backend fejlesztő tanfolyam;690000
+Tőkepiaci üzletkötői hatósági képzés;30000
+NoSQL - MongoDB tanfolyam;179000
+PowerPoint tanfolyam;59000
+Webfejlesztő tanfolyam;299000
+Excel Power Query tanfolyam;63000
+IoT Arduino tanfolyam;159000
+SQL alapismeretek tanfolyam;129000
+Junior Visual C# fejlesztő tanfolyam;790000
+Illustrator tanfolyam;87000
+Access haladó tanfolyam;89000
+Junior rendszerüzemeltető tanfolyam;590000
+Iroda Start tanfolyam;139000
+YouTube tanfolyam;45000
+Független Biztosításközvetítő hatósági képzés;30000
+IoT Raspberry Pi tanfolyam;159000
+Photoshop tanfolyam;87000
+Pénzügyi szolgáltatás közvetítő hatósági képzés;30000
+Független különbözeti Biztosításközvetítő hatósági képzés;15000
+ISTQB CTFL szoftvertesztelő tanfolyam;164000
+Microsoft Visio tanfolyam;129000
+Függő Biztosításközvetítő hatósági képzés;28000
+After Effects tanfolyam;129000
+Online Marketing tanfolyam;189000
+Szoftvertervezés alapjai;159000
+Access tanfolyam;69000
+Webdesigner tanfolyam;249000
+Excel kimutatások (Pivot tábla) tanfolyam;63000
+Számítógép szerelő munkatárs tanfolyam;290000
+Word tanfolyam;69000
+Junior Frontend Fejlesztő tanfolyam;590000
+Számítógépes adatrögzítő tanfolyam;149000
+Python nyelv alapjai tanfolyam;349000
+Excel makró programozás;89000
+Adatbázis üzemeltető (specialista) tanfolyam;590000
+Webprogramozó tanfolyam;169000
+MySQL tanfolyam;129000
+Facebook és Instagram alapok tanfolyam;45000
+WordPress tanfolyam;79000
+Python programozó tanfolyam;499000
+Kiadványszerkesztő tanfolyam;189000
+ECDL tanfolyam;169000
+Facebook haladó I. tanfolyam;45000
+Excel haladó tanfolyam;69000
+Haladó PHP programozó tanfolyam;290000
+Programozás alapjai tanfolyam;119000
+Django tanfolyam;125730
+Webszerkesztő Tanfolyam;152000
+Junior Frontend fejlesztő + Webfejlesztő tanfolyam;990000
+Microsoft Project tanfolyam;129000
+Excel dashboard tanfolyam;119000
+Google Ads alapok tanfolyam;45000
+Junior szoftvertesztelő tanfolyam;640000
+Videoszerkesztő tanfolyam;99000
+Keresőoptimalizálás (SEO) tanfolyam;45000
+Google Analytics tanfolyam;45000
+Excel tanfolyam;69000
+Gépíró tanfolyam;79000
